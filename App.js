@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
         padding: 20,
         backgroundColor: 'whitesmoke',
     },
+
     submitButton: {
         padding: 15,
         backgroundColor: 'blue',
